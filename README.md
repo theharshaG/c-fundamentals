@@ -100,7 +100,7 @@ References
 
 Inspired by common C programming practice resources and open educational repositories focused on algorithms and C fundamentals.
 
-Author
+## Author
 
 Harsha G
 Learning Embedded Systems | IoT | Python | C Programming
